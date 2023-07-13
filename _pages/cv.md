@@ -11,30 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Science majoring in Mathematics and Applied Mathematics, Wuhan University, 2020-2024
 
-Work experience
+Internship experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023.7-2023.8: Summer Research Program
+  * Hong Kong University of Science and Technology
+  * I read paper about Numerical Solutions of PDE: Primal-Dual Method for Wasserstein gradient flows
+  * During the intership, I learned about the physical laws behind gradient flow equations, Wasserstein metrics amd a variety of modern methods for solving PDEs, including JKO scheme, C-N inspired scheme and Primal-Dual Method.
   
-Skills
+  
+<!-- Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Chinese Painting
+* Programming
+  * Matlab
+  * C
+* Skill 3 -->
+<!-- 
 
 Publications
 ======
@@ -56,4 +50,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

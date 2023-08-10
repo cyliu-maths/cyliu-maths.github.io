@@ -13,4 +13,6 @@ redirect_from:
 <br>
 *Recently I have been focusing on Numerical Solutions for Partial Differential Equations. I'm both interested in some traditional methods like Spectral Method, Finite Element Method, Finite Volume Method and modern algorithms such as JKO scheme, Primal-Dual method and so on.
 <br>
-*To learn more about me, you can download my resume here: [English](cyliu-maths.github.io/files/CV.pdf)
+title: "CV"
+excerpt: "CV"
+To learn more about me, you can download my resume [here](cyliu-maths.github.io/files/CV.pdf)

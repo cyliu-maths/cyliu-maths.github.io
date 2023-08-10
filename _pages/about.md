@@ -15,4 +15,4 @@ Recently I have been focusing on Numerical Solutions for Partial Differential Eq
 
 CV
 =====
-To learn more about me, you can download my resume [here](cyliu-maths.github.io/files/CV.pdf)
+To learn more about me, you can download my resume [here](../files/CV.pdf)
